@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+    width: 100%
+    
+}
+
+.bg {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+
+#btn {
+    margin: 70px;
+    margin-left: 50%;
+}
+
+#btn:hover {
+ background-color: pink;
+}
+
+h2 {
+    margin-top: 30px;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(234, 50, 191);
+    text-shadow: 0.05em 0 rgb(12, 12, 12), 0.05em 0 black, 0.05em 0 black, 0.05em 0 black;
+    font-size: 30px;
+    font-weight: normal;
+}
