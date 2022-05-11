@@ -6,5 +6,5 @@ myBtn.addEventListener("click", function () {
   document.getElementById("mothers-day").textContent =
     "Happy Mothers Day To The Most Amazing Mom In The Whole Wide World! Loving, Compassionate, Selfless, Supportive And Funny. Short List Of What We Love About You!";
   document.getElementById("mothers-day2").textContent =
-    "Love - Samuel, Yoda, Brin and Dad.";
+    "Love - Samuel, Yoda, Brinn, Jaclyn and Roberto";
 });
